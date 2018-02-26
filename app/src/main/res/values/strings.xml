@@ -2,6 +2,7 @@
 <resources>
 
     <string name="app_name">ListView</string>
+    <string name="mylist">自定义ListView</string>
     <string name="hello_world">Hello world!</string>
 
 </resources>
